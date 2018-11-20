@@ -1,3 +1,4 @@
+# 原作者 19920625lsg/JavaThread
 # JavaThread
 > Java多线程编程学习,多本书以及网上的视频教程
 
